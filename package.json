@@ -1,0 +1,24 @@
+{
+  "name": "crypton-academy-node_task2",
+  "version": "1.0.0",
+  "description": "Heap's algorithm without repetition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackGold888/crypton-academy-node_task2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackGold888/crypton-academy-node_task2/issues"
+  },
+  "homepage": "https://github.com/BlackGold888/crypton-academy-node_task2#readme",
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4"
+  }
+}
